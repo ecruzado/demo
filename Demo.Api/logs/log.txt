@@ -1,0 +1,2 @@
+INFO  2015-05-17 23:38:42,626  9605ms EmployeesController    Get                - get
+INFO  2015-05-17 23:39:16,425 43404ms EmployeesController    Get                - get
